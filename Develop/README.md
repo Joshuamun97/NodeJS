@@ -18,7 +18,9 @@
 Short on time? At the end of your project and need to quickly put together a read me? Well, you're in luck because this application does just that! Utilizing node js all you have to do is open up your terminal and open your read me generator, the application does the rest! You will be prompted with questions and all you need to do is answer!
 
 ## Usage
-This applications is used to quickly generate a read me file using node JS
+This applications is used to quickly generate a read me file using node JS. Click the link to view the walkthrough video! 
+
+https://drive.google.com/file/d/13lBSpTkJ2FA5St27hKQjPcbBubJt7uHC/view
 
 ## Contributions
 N/A
